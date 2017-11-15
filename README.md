@@ -4,7 +4,7 @@
 [![N|Solid](https://icon-icons.com/icons2/72/PNG/256/download_arrow_14460.png)](https://nodesource.com/products/nsolid)
 `Para baixar o aplicativo` [clique aqui](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
 # Caso apareça alguma mensagem informando que não é possível prosseguir com a instalação, siga os passos abaixo:
- 1. Acesse configurações de segurança
+ 1. Acesse configurações de segurança \r\n
        ![N](https://drive.google.com/uc?id=12LDzVBfeu8zoIc3v380SS3_6DRkHSOWh)
 1. Localize a opção para permitir instalação de fontes desconhecidas
        ![N](https://drive.google.com/uc?id=12H_3uL5oAwfF5uOxsx2dwL5Uw_8TPvJ0)
