@@ -10,7 +10,7 @@
        ![N](https://drive.google.com/uc?id=12H_3uL5oAwfF5uOxsx2dwL5Uw_8TPvJ0)
  1. Habilite a permissão <br />
        ![N](https://drive.google.com/uc?id=19lTYrxds_yTEay7h4IeMSekKE1rpY2lE)
- 1. Tenta instalar o aplicativo novamente. <br />
+ 1. Tente instalar o aplicativo novamente. <br />
  1. Conceder as permissões necessárias <br />
        ![N](https://drive.google.com/uc?id=12-H3yeRwT4wB3JGkJiZEXOWUTSH33El2)
  1. Instalação concluída <br />
